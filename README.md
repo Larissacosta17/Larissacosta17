@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Olá, eu sou a Larissa, estudante de Análise e Desenvolvimento de Sistemas na Facens e apaixonada por tecnologia desde a adolescência. Iniciei minha trajetória com Html e Css no curso de Web Design, e com Hardware, com o tempo fui buscando mais sobre a área.<br>Atualmente, estou me aprofundando em Java, além de explorar tecnologias como MySql. Estou sempre em busca novos desafios e poder contribuir com novos projetos.</p>
+<p align="left">Olá, eu sou a Larissa, estudante de Análise e Desenvolvimento de Sistemas na Facens e apaixonada por tecnologia desde a adolescência. Iniciei minha trajetória com Html e Css no curso de Web Design, e com Hardware, com o tempo fui buscando mais sobre a área.<br>Atualmente, estou me aprofundando em Java, além de explorar outras tecnologias como banco de dados MySql. Estou sempre em busca novos desafios e poder contribuir com novos projetos.</p>
 
 ###
 
